@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://sad1e.github.io/sitemap.xml

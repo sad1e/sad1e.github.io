@@ -1,0 +1,36 @@
+baseURL = 'https://sad1e.github.io/'
+languageCode = 'en-us'
+title = "Sad1e's posts"
+theme = "PaperMod"
+
+Paginate = 5 # Number of posts per page
+enableRobotsTXT = true
+
+[params.assets]
+customCSS = ["css/custom.css"]
+googleFonts = []
+
+[params.features]
+disqusOnDemand = true  # Load Disqus comments on click
+mathjax = true
+
+tags = [
+  "blog",
+  "minimal",
+  "minimalist",
+  "responsive"
+]
+features = [
+  "accessibility",
+  "analytics",
+  "comments",
+  "cover-image",
+  "favicon",
+  "multilingual",
+  "opengraph",
+  "pagination",
+  "shortcodes",
+  "single-column",
+  "social-menu",
+  "syntax-highlighting",
+]
